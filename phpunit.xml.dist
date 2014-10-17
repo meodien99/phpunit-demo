@@ -1,0 +1,7 @@
+<phpunit colors="true">
+    <testsuites>
+        <testsuite name="Madcat Test Suite">
+            <directory>tests/Madcat</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
